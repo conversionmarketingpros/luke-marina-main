@@ -11,7 +11,7 @@ export function OurGallery() {
     { id: 4, src: "/images/68d2bd2a26b7f7aaac32a6e1.jpg", alt: "Boat engine detail close up" },
     { id: 5, src: "/images/68d2bd2a4b65760637e9a0ec.jpg", alt: "Wooden dock planks" },
     { id: 6, src: "/images/68d2bd2a1dbafc3707757dce.jpeg", alt: "Boat engine maintenance" },
-    { id: 7, src: "/images/68d2be5e4b657612e3e9cbd0.jpg", alt: "White boat on shore" },
+    { id: 7, src: "/images/IMG_1015.png", alt: "White boat on shore" },
     { id: 8, src: "/images/68d2be5f9c40995e4e1611e8.jpeg", alt: "Boat engine detail work" },
     { id: 9, src: "/images/68d2be63ee4bdc2985cb6044.jpeg", alt: "Boat on water with blue sky" },
     { id: 10, src: "/images/68d2be5efd1a289cf09d9a49.jpeg", alt: "Boat engine close up detail" },

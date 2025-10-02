@@ -61,8 +61,8 @@ export function ProjectsGallery() {
       id: "shrink-wrap-1",
       name: "Winter Protection",
       beforeSrc: "/images/68d2c0669c4099b187188c4c.jpg", 
-      afterSrc: "/images/68d2c06626b7f77373352309.jpg",
-      thumbnailSrc: "/images/68d2c06626b7f77373352309.jpg",
+      afterSrc: "/images/dock repair .jpg",
+      thumbnailSrc: "/images/dock repair .jpg",
       description: "Professional shrink wrapping service"
     },
     {

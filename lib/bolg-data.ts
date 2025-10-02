@@ -26,7 +26,7 @@ export interface BlogPost {
       slug: "maximizing-boat-value-expert-detailing",
       title: "Maximizing Boat Value with Expert Detailing",
       excerpt: "Discover how professional detailing preserves your boat's multi-million-dollar finish, using premium techniques tailored for Lake Coeur d'Alene's conditions.",
-      image: "/images/68d330cfef40ca237dc8e22f.png",
+      image: "/images/68d28a95448d7b7da6e47f16.jpeg",
       readTime: "8 min read",
       author: {
         name: "Luke Netzel",
@@ -42,7 +42,7 @@ export interface BlogPost {
           {
             heading: "Premium Products for Superior Results",
             content: "We use only the finest marine-grade products specifically formulated for freshwater environments. Our detailing arsenal includes pH-balanced cleaners that won't damage gel coat, premium waxes with UV inhibitors, and specialized tools designed for marine applications. These products not only clean but actively protect your investment from Lake Coeur d'Alene's unique environmental factors.",
-            image: "/images/68d12b1056313e659a6aee72.jpeg",
+            image: "/images/68d330cfef40ca237dc8e22f.png",
           },
           {
             heading: "The Detailing Process That Delivers Results",
@@ -51,7 +51,7 @@ export interface BlogPost {
           {
             heading: "Protecting Your Investment's Value",
             content: "Regular professional detailing can increase your boat's resale value by 15-25%. A well-maintained vessel not only looks better but also demonstrates to potential buyers that the boat has been properly cared for. Our detailed service records and before/after documentation provide valuable proof of maintenance that enhances your boat's marketability.",
-            image: "/images/68d12b1d2ca02b642b5fc0bc.jpeg",
+            image: "/images/68d32be0037a13a1d0e2bae0.jpeg",
           },
           {
             heading: "Seasonal Maintenance for Year-Round Protection",
@@ -70,7 +70,7 @@ export interface BlogPost {
       slug: "winter-ready-boats-shrink-wrapping",
       title: "Winter-Ready Boats: The Art of Shrink Wrapping",
       excerpt: "Explore the meticulous process of custom shrink wrapping for your high-end boat, ensuring optimal protection against Idaho winters.",
-      image: "/images/68d334a026b7f758457aea4d.jpeg",
+      image: "/images/blog 1.jpg",
       readTime: "9 min read",
       author: {
         name: "Luke Netzel",
@@ -95,7 +95,7 @@ export interface BlogPost {
           {
             heading: "Ventilation and Moisture Control",
             content: "Proper ventilation is crucial to prevent moisture buildup inside the shrink wrap. We install specialized vents that allow air circulation while keeping out precipitation and pests. This controlled environment prevents mold, mildew, and corrosion that can occur in improperly sealed boats. Our ventilation system ensures your boat emerges from winter storage in the same condition it entered.",
-            image: "/images/68d12b2d2ca02b72155fc2c1.jpeg",
+            image: "/images/testimonial 2.jpg",
           },
           {
             heading: "Durability and Longevity of Professional Installation",
@@ -114,7 +114,7 @@ export interface BlogPost {
       slug: "interior-design-excellence-luxury-boats",
       title: "Interior Design Excellence for Luxury Boats",
       excerpt: "Discover the art of creating stunning interior spaces that reflect the luxury and sophistication of your vessel.",
-      image: "/images/68d6c5a65b5ea55d9ea318c9.jpeg",
+      image: "/images/blog 2.jpg",
       readTime: "7 min read",
       author: {
         name: "Luke Netzel",
@@ -126,7 +126,7 @@ export interface BlogPost {
           {
             heading: "The Art of Marine Interior Design",
             content: "Luxury boat interiors require specialized knowledge of marine materials, space optimization, and aesthetic design principles. Unlike residential interiors, boat spaces must be both beautiful and functional, withstanding the unique challenges of marine environments. Our interior design services focus on creating spaces that enhance your boating experience while maintaining the highest standards of quality and durability.",
-            image: "/images/68d12b2d2ca02b72155fc2c1.jpeg",
+            image: "/images/68d15a0ffefaa9807939d7e1.png",
           },
           {
             heading: "Material Selection for Marine Environments",
@@ -139,7 +139,7 @@ export interface BlogPost {
           {
             heading: "Custom Solutions for Unique Vessels",
             content: "Every boat is unique, and our interior design services are tailored to each vessel's specific characteristics. We work closely with owners to understand their vision and lifestyle needs, creating custom solutions that reflect their personal style while optimizing the boat's functionality. From complete interior renovations to targeted improvements, we deliver results that exceed expectations.",
-            image: "/images/68d12b1056313e659a6aee72.jpeg",
+            image: "/images/68d2be63ee4bdc2985cb6044.jpeg",
           },
           {
             heading: "Lighting and Ambiance Design",
@@ -158,7 +158,7 @@ export interface BlogPost {
       slug: "dock-repair-maintenance-expertise",
       title: "Dock Repair & Maintenance: Expert Solutions for Lake Coeur d'Alene",
       excerpt: "Learn about comprehensive dock repair and maintenance services that keep your marina infrastructure safe, functional, and beautiful year-round.",
-      image: "/images/68d6c5c37b6cc007dba1a6cc.jpeg",
+      image: "/images/blog 3.jpg",
       readTime: "8 min read",
       author: {
         name: "Luke Netzel",
@@ -174,7 +174,7 @@ export interface BlogPost {
           {
             heading: "Common Dock Problems and Solutions",
             content: "Dock structures face numerous challenges including wood rot, metal corrosion, loose connections, and structural damage from ice and storms. Our experienced technicians identify and address these issues before they become major problems. We use marine-grade materials and proven repair techniques that ensure long-lasting solutions for all types of dock damage.",
-            image: "/images/68d12b1d2ca02b642b5fc0bc.jpeg",
+            image: "/images/dock repair .jpg",
           },
           {
             heading: "Preventive Maintenance Programs",
@@ -183,7 +183,7 @@ export interface BlogPost {
           {
             heading: "Structural Repairs and Upgrades",
             content: "When dock damage occurs, our team provides expert repair services using the latest techniques and materials. From replacing damaged pilings to repairing decking and railings, we restore your dock to safe, functional condition. We also offer upgrade services that improve dock functionality and appearance, including new decking, lighting, and safety features.",
-            image: "/images/68d12b2d2ca02b72155fc2c1.jpeg",
+            image: "/images/testimonial 1.jpg",
           },
           {
             heading: "Seasonal Preparation and Protection",
@@ -202,7 +202,7 @@ export interface BlogPost {
       slug: "lake-coeur-dalene-marina-life",
       title: "Lake Coeur d'Alene Marina Life: A Boater's Paradise",
       excerpt: "Discover the unique advantages of marina life on Lake Coeur d'Alene and how proper boat care enhances your experience on Idaho's most beautiful lake.",
-      image: "/images/68d6c62e6fe1a5a482c3bef4.jpeg",
+      image: "/images/blog 4.jpg",
       readTime: "8 min read",
       author: {
         name: "Luke Netzel",
@@ -218,7 +218,7 @@ export interface BlogPost {
           {
             heading: "Marina Services That Enhance Your Experience",
             content: "Living the marina life on Lake Coeur d'Alene means having access to comprehensive boat care services that keep your vessel in perfect condition. From regular detailing that maintains your boat's appearance to seasonal shrink wrapping that protects it during Idaho winters, our services ensure you can focus on enjoying the lake while we handle the maintenance.",
-            image: "/images/68d12b1056313e659a6aee72.jpeg",
+            image: "/images/68d32483037a1317d2e0c731.jpg",
           },
           {
             heading: "Seasonal Considerations for Lake Coeur d'Alene",
@@ -227,7 +227,7 @@ export interface BlogPost {
           {
             heading: "Community and Lifestyle Benefits",
             content: "Marina life on Lake Coeur d'Alene offers more than just boat access—it provides a community of like-minded individuals who share a passion for the water. Our marina services support this lifestyle by ensuring your boat is always ready for spontaneous adventures and planned excursions. We understand that your boat is more than transportation; it's your gateway to relaxation and recreation.",
-            image: "/images/68d12b1d2ca02b642b5fc0bc.jpeg",
+            image: "/images/testimonial 1.jpg",
           },
           {
             heading: "Environmental Stewardship and Lake Care",
@@ -271,7 +271,7 @@ export interface BlogPost {
           {
             heading: "Professional Services and When to Use Them",
             content: "While many maintenance tasks can be performed by owners, certain services require professional expertise. Professional detailing, shrink wrapping, and major repairs should be handled by experienced technicians. Our services complement your maintenance efforts, providing the specialized care that ensures your boat receives the attention it deserves.",
-            image: "/images/68d12b1056313e659a6aee72.jpeg",
+            image: "/images/68d15a0ffefaa9807939d7e1.png",
           },
           {
             heading: "Long-Term Preservation Strategies",

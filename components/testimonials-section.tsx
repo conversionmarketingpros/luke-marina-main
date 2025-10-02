@@ -82,7 +82,7 @@ const testimonials = [
   },
   {
     id: 5,
-    image: "/images/68d333de26b7f7bb727ace22.jpg",
+    image: "/images/testimonial 2.jpg",
     customer: {
       name: "Daniel Lee",
       avatar: "/daniel-lee-avatar.jpg",
@@ -94,7 +94,7 @@ const testimonials = [
   },
   {
     id: 6,
-    image: "/images/68d335efe4f8ae792eadc846.jpg",
+    image: "/images/testimonial 1.jpg",
     customer: {
       name: "Olivia Martinez",
       avatar: "/olivia-martinez-avatar.jpg",

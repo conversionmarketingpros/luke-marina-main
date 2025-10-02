@@ -62,7 +62,7 @@ const serviceData = {
   "shrink-wrap": {
     title: "Professional Shrink Wrap Services for Ultimate Boat Protection",
     breadcrumb: "Shrink Wrap Services",
-    heroImage: "/images/68d333de26b7f7bb727ace22.jpg",
+    heroImage: "/images/testimonial 2.jpg",
     services: [
       {
         title: "WINTER STORAGE",
@@ -80,7 +80,7 @@ const serviceData = {
         title: "CUSTOM FITTING",
         description:
           "Tailored shrink wrap solutions for boats of all sizes and configurations, providing optimal protection and ventilation.",
-        image: "/images/68d333de26b7f7bb727ace22.jpg",
+        image: "/images/testimonial 2.jpg",
       },
     ],
     processSteps: [
@@ -104,7 +104,7 @@ const serviceData = {
     contactTitle: "Our Contact us for <span class='text-[#106264]'>Shrink Wrap Services</span> that defines protection",
     contactDescription:
       "Protect your investment with our professional shrink wrap services. Our team has years of experience in marine protection, using only the highest quality materials and proven techniques. Whether for winter storage or transport, we ensure your boat stays in pristine condition.",
-    contactImage: "/images/68d334a026b7f758457aea4d.jpg",
+    contactImage: "/images/68d2c03a26b7f77c113509ab.jpg",
   },
   "dock-repair": {
     title: "Expert Dock Repair & Maintenance Services",
@@ -127,7 +127,7 @@ const serviceData = {
         title: "UPGRADES",
         description:
           "Dock enhancement and upgrade services including lighting, electrical work, and modern safety features installation.",
-        image: "/images/68d335efe4f8ae792eadc846.jpg",
+        image: "/images/68d335ca037a13584de42617.jpg",
       },
     ],
     processSteps: [

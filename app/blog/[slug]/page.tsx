@@ -86,7 +86,7 @@ export default function BlogDetailPage({ params }: BlogDetailPageProps) {
         <div className=" px-4 sm:px-6 lg:px-8 w-full">
           <div className="max-w-7xl">
             
-            <h1 className="text-2xl mr-12 md:mr-0 sm:text-3xl md:text-4xl lg:text-6xl font-bold text-white mb-6 leading-tight">
+            <h1 className="text-2xl mr-12 md:mr-8 sm:text-3xl md:text-4xl lg:text-6xl font-bold text-white mb-6 leading-tight">
             {post.title}
             </h1>
             
