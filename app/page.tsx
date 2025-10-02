@@ -536,7 +536,7 @@ export default function Home() {
                         <input
                           id="agree-terms-hero"
                           type="checkbox"
-                          className="mt-1 h-4 w-4"
+                          className="mt-1 h-5 w-5 rounded"
                           checked={hasAgreed}
                           onChange={(e) => setHasAgreed(e.target.checked)}
                           aria-required="true"
@@ -551,7 +551,7 @@ export default function Home() {
                         <input
                           id="sms-consent-hero"
                           type="checkbox"
-                          className="mt-1 h-4 w-4"
+                          className="mt-1 h-5 w-5 rounded"
                           checked={hasSmsConsent}
                           onChange={(e) => setHasSmsConsent(e.target.checked)}
                         />
@@ -565,7 +565,7 @@ export default function Home() {
                         <input
                           id="marketing-consent-hero"
                           type="checkbox"
-                          className="mt-1 h-4 w-4"
+                          className="mt-1 h-5 w-5 rounded"
                           checked={hasMarketingConsent}
                           onChange={(e) => setHasMarketingConsent(e.target.checked)}
                         />

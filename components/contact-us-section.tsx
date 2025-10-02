@@ -422,7 +422,7 @@ export function ContactUsSection() {
                   <input
                     id="agree-terms"
                     type="checkbox"
-                    className="mt-1 h-4 w-4"
+                    className="mt-1 h-5 w-5 rounded"
                     checked={hasAgreed}
                     onChange={(e) => setHasAgreed(e.target.checked)}
                     aria-required="true"
@@ -437,7 +437,7 @@ export function ContactUsSection() {
                   <input
                     id="sms-consent"
                     type="checkbox"
-                    className="mt-1 h-4 w-4"
+                    className="mt-1 h-5 w-5 rounded"
                     checked={hasSmsConsent}
                     onChange={(e) => setHasSmsConsent(e.target.checked)}
                   />
@@ -451,7 +451,7 @@ export function ContactUsSection() {
                   <input
                     id="marketing-consent"
                     type="checkbox"
-                    className="mt-1 h-4 w-4"
+                    className="mt-1 h-5 w-5 rounded"
                     checked={hasMarketingConsent}
                     onChange={(e) => setHasMarketingConsent(e.target.checked)}
                   />

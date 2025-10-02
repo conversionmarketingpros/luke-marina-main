@@ -212,7 +212,7 @@ export function FooterSection() {
               {/* Circular Logo */}
               <Link href="/" className="w-16 h-16 md:w-22 md:h-22 flex items-center justify-center">
                 <Image
-                  src="/images/68cafb12357b4e3b698de878.svg"
+                  src="/images/2 21.png"
                   alt="Luke Marina Services Logo"
                   width={88}
                   height={88}
